@@ -1,5 +1,13 @@
 # @web/mocks
 
+## 2.0.0
+
+### Major Changes
+
+- 2bc4206: Decouple `@web/mocks` from Storybook.
+  Extract Storybook addon to the package `@web/storybook-addon-mocks`.
+  See MIGRATION.md for more info.
+
 ## 1.3.2
 
 ### Patch Changes
