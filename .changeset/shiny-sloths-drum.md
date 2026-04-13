@@ -1,5 +1,4 @@
 ---
-'@web/mocks': major
 '@web/storybook-addon-mocks': major
 '@web/storybook-builder': minor
 '@web/storybook-framework-web-components': minor
