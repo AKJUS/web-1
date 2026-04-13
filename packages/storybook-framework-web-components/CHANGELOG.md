@@ -1,5 +1,16 @@
 # @web/storybook-framework-web-components
 
+## 0.3.0
+
+### Minor Changes
+
+- c78ff49: Migrate projects to Storybook 9
+
+### Patch Changes
+
+- Updated dependencies [c78ff49]
+  - @web/storybook-builder@0.3.0
+
 ## 0.2.1
 
 ### Patch Changes

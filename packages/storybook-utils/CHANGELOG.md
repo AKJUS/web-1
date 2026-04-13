@@ -1,5 +1,11 @@
 # @web/storybook-utils
 
+## 2.0.0
+
+### Major Changes
+
+- c78ff49: Migrate projects to Storybook 9
+
 ## 1.1.2
 
 ### Patch Changes
